@@ -10,19 +10,19 @@ Basic API Server where we write some middleware and practice deployment
 
 ### Links and Resources
 
-- [GitHub Actions ci/cd](http://xyz.com) 
-- Dev [back-end server url](https://d51-practice.onrender.com) 
-- Prod [back-end server url](enterYourUrl.xyz) 
+- [GitHub Actions ci/cd](https://github.com/bperard/server-deployment-practice/actions)
+- Dev [back-end server url](https://d51-practice.onrender.com)
+- Prod [back-end server url](https://server-deployment-practice-prod-ai5l.onrender.com)
 
 ### Setup
 
 #### `.env` requirements (where applicable)
 
-not necessary for this lab, wait for tomorrow
+PORT
 
 #### How to initialize/run your application (where applicable)
 
-- e.g. `npm start`
+- `npm start`
 
 #### How to use your library (where applicable)
 
@@ -32,10 +32,8 @@ not necessary for this lab, wait for tomorrow
 
 #### Tests
 
-fill this in as you see fit
-- How do you run tests?
-- Any tests of note?
-- Describe any tests that you did not complete, skipped, etc
+- `npm test`
+- basic route and error tests
 
 #### UML
 
